@@ -1,0 +1,6 @@
+{
+  "name": "StudyHelper",
+  "description": "An Android-powered study helper application for students. Ask homework questions by uploading a photo, typing, or speaking in Hindi, Bangla, or English with real-time step-by-step explanations powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

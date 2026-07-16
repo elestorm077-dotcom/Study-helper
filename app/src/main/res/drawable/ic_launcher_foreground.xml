@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Glow / Ambient Circle -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M54,54m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0" />
+    
+    <!-- Graduation Cap / Book Symbol representing Knowledge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 L80,45 L54,56 L28,45 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,51.5 L38,65 C38,69 46,73 54,73 C62,73 70,69 70,65 L70,51.5 L54,59.5 Z" />
+    
+    <!-- AI Spark representing Intelligence -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,23 L56,29 L62,31 L56,33 L54,39 L52,33 L46,31 L52,29 Z" />
+</vector>
